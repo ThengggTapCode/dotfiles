@@ -9,5 +9,5 @@
 
 
 **GHI CÔNG TÁC GIẢ GỐC**  
-[adi1090x/rofi](https://github.com/adi1090x/rofi)
+[adi1090x/rofi](https://github.com/adi1090x/rofi)  
 [pim-n/brightnessctl-polybar](https://github.com/pim-n/brightnessctl-polybar)
