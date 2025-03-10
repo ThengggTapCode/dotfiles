@@ -6,3 +6,7 @@
 **Và các font chữ dưới đây**  
 [Lexend](https://fonts.google.com/specimen/Lexend)  
 [CaskaydiaCove Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/CascadiaCode.zip)  
+
+**GHI CÔNG TÁC GIẢ GỐC**
+[adi1090x/rofi](https://github.com/adi1090x/rofi)
+[pim-n/brightnessctl-polybar](https://github.com/pim-n/brightnessctl-polybar)
