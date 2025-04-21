@@ -1,0 +1,12 @@
+LƯU Ý!: PHẢI CẦN CÀI ĐẶT TRƯỚC PACKAGE SDDM-ASTRONAUT-THEME ĐỂ CÓ THỂ ÁP DỤNG THEME SDDM!
+https://aur.archlinux.org/packages/sddm-astronaut-theme
+
+Copy các file dưới đây vào các đường dẫn như sau:
+
+- city-horizon.jpg - /usr/share/sddm/themes/sddm-astronaut-theme/Backgrounds
+- custom_1.conf - /usr/share/sddm/themes/sddm-astronaut-theme/Themes
+- metadata.desktop - /usr/share/sddm/themes/sddm-astronaut-theme
+
+BỔ SUNG THÊM LƯU Ý: HÃY CÀI ĐẶT ĐẦY ĐỦ CÁC PACKAGE MÀ DEV CỦA PACKAGE ĐÃ YÊU CẦU CẦN TẢI NHÁ! :3
+- sddm qt6 qt6-svg qt6-virtualkeyboard qt6-multimedia
+Các bạn cx có thể cài package này nếu như sử dụng ảnh nền động: qt6-multimedia-ffmpeg

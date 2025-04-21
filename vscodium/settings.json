@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "editor.fontFamily": "'CaskaydiaCove Nerd Font', monospace",
+    "editor.fontLigatures": true,
+    "files.autoSave": "onFocusChange",
+    "editor.linkedEditing": true,
+    "editor.minimap.enabled": false,
+    "catppuccin.accentColor": "peach",
+    "workbench.iconTheme": "catppuccin-mocha"
+}
